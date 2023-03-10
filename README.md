@@ -1,2 +1,2 @@
 # praticte_project
-pratict use
+practice use
