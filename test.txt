@@ -1,3 +1,8 @@
 測試用 git clone git status git push -q
+<<<<<<< HEAD
+
+ยางแบนบนจักรยาน
+=======
 change the file to mix the old file
 
+>>>>>>> 4c470d91b651b479f3cdc22cf37c3907f65cbd6e
